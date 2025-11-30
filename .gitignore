@@ -1,0 +1,16 @@
+# Python / tooling
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# IDE & OS artifacts
+.idea/
+.DS_Store
+
+# Assessment source artifacts
+Software Engineer Assessment Task.pdf
